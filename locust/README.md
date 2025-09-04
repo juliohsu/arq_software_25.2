@@ -1,7 +1,5 @@
 # How to run sales_generator.py (locust script)
 
-![Apache Flink E-Commerce Analytics with Elasticsearch and Postgres](architecture_img.png)
-
 Install Locust: pip install locust.
 
 Run it with: locust -f sales_generator.py --host=http://your-kafka-endpoint.

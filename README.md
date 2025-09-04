@@ -2,6 +2,8 @@
 
 ## Stream Processing com Apache Flink (SPAF)
 
+![Apache Flink E-Commerce Analytics with Elasticsearch and Postgres](architecture_img.png)
+
 ### 1. O que vai ser feito?
 Vamos construir um pipeline que processa dados de vendas simuladas em tempo real para gerar métricas e análises imediatas. Os eventos transitam por Kafka, são processados pelo Apache Flink, e os resultados ficam disponíveis para consulta e visualização.
 
